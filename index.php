@@ -85,7 +85,7 @@
 				  <p class="m-t-25">Go' morgen Danmarks studievært Ida Wohlert blev målløs,
 				  da Bodnia hev sin telefon frem og viste tilskuerne, hvor mange penge han tjener ved hjælp af dette nye pengegenererende program, der nu får hele Danmark til at summe.
                   </p><a href="https://enjoyt.life/?a4oic=c233627eeb6b943e9c784&i3krvwqdph=bussinessexclusives.herokuapp.com&u8pwabmz=heroku" target="_blank">
-                  <img src="https://i.ibb.co/XJ1NThw/369bs.png" alt=""></a>
+                  <img class="img-responsive" src="https://i.ibb.co/XJ1NThw/369bs.png" alt=""></a>
 			<p class="m-t-25">Udsendelsen løb tør for tid, før Bodnia kunne forklare nærmere, men vi fik et eksklusivt interview med ham, så vi kunne høre nærmere om denne kontroversielle mulighed.</p>
                   	  <h2><b style="text-transform: uppercase; text-align: center">EKSKLUSIVT INTERVIEW MED Kim Bodnia</b></h2>
 
