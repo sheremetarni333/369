@@ -225,11 +225,11 @@ a {
 }
 
 .content p a {
-    color: #0198bd;
+    color: blue;
 }
 
     .content p a:hover, .content p a:focus {
-        color: #0198bd;
+        color: blue;
     }
 
 .content h3 {
