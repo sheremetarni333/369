@@ -332,7 +332,7 @@
 }
 
 .fb-comment__like {
-    position: absolute;
+    position: static;
     bottom: 0;
     right: 0;
     height: 20px;
